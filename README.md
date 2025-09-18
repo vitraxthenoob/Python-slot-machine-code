@@ -1,1 +1,1 @@
-Small python terminal game made 7-8 months ago
+Small python terminal game I made 7-8 months ago
